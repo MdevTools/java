@@ -27,11 +27,6 @@
         "command": "-editor.action.toggleWordWrap"
     },
     {
-        "key": "ctrl+f",
-        "command": "workbench.view.search",
-        "when": "!searchViewletVisible"
-    },
-    {
         "key": "ctrl+shift+f",
         "command": "-workbench.view.search",
         "when": "!searchViewletVisible"
